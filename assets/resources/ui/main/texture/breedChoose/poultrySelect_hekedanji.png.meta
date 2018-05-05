@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e4134221-4cea-4955-a836-51d2879e4acd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "poultrySelect_hekedanji": {
+      "ver": "1.0.3",
+      "uuid": "5fc0a825-8a76-4afe-84d6-00e69f74c1b4",
+      "rawTextureUuid": "e4134221-4cea-4955-a836-51d2879e4acd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 96,
+      "rawWidth": 142,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
